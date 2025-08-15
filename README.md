@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Data Science, and Machine Learning.
 - 🌱 I’m currently learning Data Structures applications to solve real-world problems. 
 - 💞️ I’m looking to collaborate on innovating new problem-solving approaches efficiently. 
-- 📫 How to reach me by e-mail or Whatsapp. E-mail: Saifmahmoud245@gmail.com, WA: +201090718433
+- 📫 How to reach me by e-mail or Whatsapp. E-mail: Saifmahmoud245@gmail.com, +201008852848
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: RestlessAPI 
 
